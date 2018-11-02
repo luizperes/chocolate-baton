@@ -5,9 +5,9 @@
 The main objective of this project is to trace public donations back to their donors and estabilish a graph of possible relationships, being aware of the [six-degrees-of-separation problem](https://www.researchgate.net/publication/255614427_Six_Degrees_of_Separation_in_Online_Society) so to find possible frauds.
 
 ### Worker's Party
-To analize the donations received by the Worker's party, we are using the public collected data given on the portal [Haddad President](https://haddadpresidente.com.br/doe/).
+To analize the donations received by the Worker's party, we are using the public collected data given on the portal [Haddad President](https://haddadpresidente.com.br/doe/) whose campaign gathered R$1,298,811.27 with 7618 donors.
 
-<img src="./imgs/haddad_campaign.png" />
+<img src="./imgs/haddad_campaign.png" height="60%" />
 
 - [ ] Double-check CPF (social number) and link to people
 - [ ] Gather natural language information for identification of group categories
